@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortfolioTimesheetReportService", "MortfolioTimesheetReportService\MortfolioTimesheetReportService.csproj", "{3BBDFA0F-7FD2-415B-9C29-011E303BDEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBDFA0F-7FD2-415B-9C29-011E303BDEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBDFA0F-7FD2-415B-9C29-011E303BDEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBDFA0F-7FD2-415B-9C29-011E303BDEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBDFA0F-7FD2-415B-9C29-011E303BDEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2F6E53-7805-4919-801B-2015AA080138}
+	EndGlobalSection
+EndGlobal
